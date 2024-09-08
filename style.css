@@ -1,0 +1,24 @@
+*{
+    font-size:30px;
+    font-weight:500px;
+}
+h3{
+    color:beige;
+    background-color:Black;
+}
+#idk{
+    color:black;
+    background-color:Red;
+}
+.wow{
+    color:black;
+    background-color:aqua;
+}
+h5{
+    color:blueviolet;
+    background-color:green;
+}
+h4,h6{
+    color:red;
+    background-color:yellow;
+}
